@@ -1,0 +1,4 @@
+repository "NumberGame@ssl://whadley@sh02-plasticscm.unity.cn:8787"
+  path "/"
+    smartbranch "/main/vip123x" 
+     
